@@ -1,5 +1,6 @@
 package mayapp
 
 func main(){
+P =0
 
 }
